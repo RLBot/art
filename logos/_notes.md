@@ -9,11 +9,11 @@
 - **RLBotCleanOpt.svg**
   is RLBotClean.svg but optimized using [svgo]
 - **RLBotAnimated.rawr**
-  is a animated version of RLBotClean.svg in the .rawr format (which is what [glaxnimate] uses).
+  is an animated version of RLBotClean.svg in the .rawr format (which is what [glaxnimate] uses).
 - **RLBotAnimatedX.webp**
-  is RLBotAnimated.rawr rendered as a **lossless** animated webp
+  is RLBotAnimated.rawr rendered at X resolution as a **lossless** animated webp
 - **RLBotAnimatedX.avif**
-  is RLBotAnimated.rawr rendered as a **lossy** animated webp
+  is RLBotAnimated.rawr rendered at X resolution as a **lossy** animated webp
 
 [glaxnimate]: https://invent.kde.org/graphics/glaxnimate/
 [svgo]: https://github.com/svg/svgo
