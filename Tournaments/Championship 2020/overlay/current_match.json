@@ -1,0 +1,66 @@
+{
+    "blue_team_name": "Botimus-Beast",
+    "orange_team_name": "Beast-Kamael",
+    "blue_bots": [
+        {
+            "config_path": "C:\\Users\\nicoesterby\\AppData\\Local\\RLBotGUI\\RLBotPackDeletable\\RLBotPack-master\\RLBotPack\\Botimus&Bumblebee\\botimus.cfg",
+            "name": "Botimus Prime",
+            "developer": "Darxeal",
+            "description": "In 1v1, Botimus tries to play passive, only going for clears and safe shots. If it has teammates however, it goes for the ball all the time :P",
+            "fun_fact": "The original Botimus Prime made its first appearance in RLBot 2018 august tournament, casted by none other than Liefx!",
+            "language": "python",
+            "github": "https://github.com/Darxeal/BotimusPrime"
+        },
+        {
+            "config_path": "C:\\Users\\nicoesterby\\AppData\\Local\\RLBotGUI\\RLBotPackDeletable\\RLBotPack-master\\RLBotPack\\Beast from the East\\beastbot.cfg",
+            "name": "Beast from the East",
+            "developer": "Eastvillage",
+            "description": "A proud Merc bot that uses a utility system to decide wether to defend, dribble, score, or you know just eat the opponent alive.",
+            "fun_fact": "'Beast' is actually short for 'Bot made by Eastvillage', and 'from the East' also means 'made by Eastvillage'.",
+            "language": "python",
+            "github": "https://github.com/NicEastvillage/RLBot-Beast"
+        }
+    ],
+    "orange_bots": [
+        {
+            "config_path": "C:\\Users\\nicoesterby\\AppData\\Local\\RLBotGUI\\RLBotPackDeletable\\RLBotPack-master\\RLBotPack\\Beast from the East\\beastbot.cfg",
+            "name": "Beast from the East",
+            "developer": "Eastvillage",
+            "description": "A proud Merc bot that uses a utility system to decide wether to defend, dribble, score, or you know just eat the opponent alive.",
+            "fun_fact": "'Beast' is actually short for 'Bot made by Eastvillage', and 'from the East' also means 'made by Eastvillage'.",
+            "language": "python",
+            "github": "https://github.com/NicEastvillage/RLBot-Beast"
+        },
+        {
+            "config_path": "C:\\Users\\nicoesterby\\AppData\\Local\\RLBotGUI\\RLBotPackDeletable\\RLBotPack-master\\RLBotPack\\Kamael\\Kamael.cfg",
+            "name": "Kamael",
+            "developer": "Impossibum",
+            "description": "specializes in strength, courage and war",
+            "fun_fact": "leader of the Powers",
+            "language": "python",
+            "github": ""
+        }
+    ],
+    "series_length": 7,
+    "blue_scores": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+    ],
+    "orange_scores": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+    ],
+    "series_wins": [
+        1,
+        0,
+        1,
+        0,
+        1
+    ]
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>title</title>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha384-vk5WoKIaW/vJyUAd9n/wmopsmNhiy+L2Z+SBxGYnUkunIxVxAv/UtMOhba/xskxh" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="overlay.css"/>
+</head>
+<body>
+    <div class="top" style="margin-top: 10px">
+        <div id="header-container">
+            <img src="images/blue bg.png" style="grid-area: blue"/>
+            <img src="images/orange bg.png" style="grid-area: orange"/>
+            <p id="team-name-blue" class="team-name" style="grid-area: blue; padding-left: 24px">TBD</p>
+            <p id="team-name-orange" class="team-name" style="grid-area: orange; padding-right: 24px">TBD</p>
+            <div id="blue-wins" style="grid-area: bluewins; justify-self: right"></div>
+            <div id="orange-wins" style="grid-area: orangewins; justify-self: left"></div>
+        </div>
+    </div>
+    <div class="bottom">
+        <img src="images/sponsors.png"/>
+    </div>
+    <div id="tipcard">
+        <div tip-title></div>
+        <div tip-text></div>
+    </div>
+    <script type="text/javascript" src="overlay.js"></script>
+</body>
+</html>
